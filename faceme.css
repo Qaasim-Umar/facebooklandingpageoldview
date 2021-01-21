@@ -1,0 +1,101 @@
+body{background-color: rgb(212, 216, 213);
+
+}
+#floate{
+float:left;
+color: antiquewhite;
+background-color: #4267B2;
+margin-top: -10px;
+margin-left:-8px;
+padding:20px;
+width: 93.5%;
+}
+
+
+
+.fullname{
+    margin-top: 60px;
+}
+#formsub{
+background-color:#32CD32;
+padding: 12px;
+border-color:rgb(99, 99, 226);
+border:5px;
+margin-top: 1px;
+float: right;
+margin-right:-14px;
+
+}
+strong{
+font-size:29px;
+margin-left:-20px;
+
+}
+.phone{
+    padding:10px;
+    margin-bottom:10px;
+    width:95% ;
+    outline: none;
+}
+.password{
+    padding:10px;
+    margin-bottom:30px;
+    width:95% ;
+    outline: none;
+}
+
+
+#log{
+background-color: ;
+padding: 15px;
+width:100%;
+text-align: center;
+color: antiquewhite;
+border:none;
+background-color:#4267B2;
+}
+
+h5 {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid rgb(129, 123, 123); 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+    text-decoration-line: none;
+ } 
+ 
+ h5 span { 
+     padding:0 10px; 
+     background-color: rgb(212, 216, 213);
+     color: gray;
+ }
+ #create{
+
+background-color: #32CD32;
+padding: 10px;
+border: 0px;
+
+
+ }
+ #fuuter{
+ float:right;
+ margin-top:-75px;
+ font-family : Arial, Helvetica, sans- serif ;
+ }
+ #footer{
+ background-color:#616771;
+ padding:10px;
+ margin-bottom:-20px;
+ padding-top:10px;
+ height:100px;
+ margin-left:-10px;
+ line-height:25px;
+ width:100%;
+ font-family : Arial, Helvetica, sans- serif ;
+ 
+ }
+ a{
+ text-decoration:none;
+ color:lightgrey;
+ font-family : Arial, Helvetica, sans- serif ;
+ }
